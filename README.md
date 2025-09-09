@@ -15,4 +15,4 @@ cd name-of-repo-folder
 python deep.py
 ```
 
-## Type your input. For a "Yes" answer it must be: `42`, `forty-two`, `forty two`. For a "No" answer it can be anything else.
+### Type your input. For a "Yes" answer it must be: `42`, `forty-two`, `forty two`. For a "No" answer it can be anything else.
